@@ -1,4 +1,4 @@
-## Customer analysis - project 1 
+#### Customer analysis - project 1
 
 library(tidyverse)
 library(readxl)
@@ -13,7 +13,7 @@ library(fpc)
 library(magrittr)
 
 
-### PNJ DATA
+### DATA
 # # Loading
 data <- read.csv("20200406_CSKH.csv")
 df <- data
